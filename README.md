@@ -10,13 +10,13 @@ este reto incluye  un csv el cual fue generado de manera artificial y contiene 5
 # solution
 para lo solucion se utilizo en mi caso los siguientes cosas:
 
--docker para poder usar postgres
+1.docker para poder usar postgres
 
--anaconda para poder abrir jupyter
+2.anaconda para poder abrir jupyter
 
--jupyter 
+3.jupyter 
 
--power bi para hacer las respectivas visualizaciones
+4.power bi para hacer las respectivas visualizaciones
 
 # como hacer funcionar el taller
 1.clonar el repositorio 
