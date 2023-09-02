@@ -14,10 +14,16 @@ para lo solucion se utilizo en mi caso los siguientes cosas:
 -jupyter 
 -power bi para hacer las respectivas visualizaciones
 # como hacer funcionar el taller
-1.clonar el repositorio
+1.clonar el repositorio 
+
 2.instalar jupyter lab
+
 3.en mi caso yo use docker para poder correr postgres(en su caso usted puede usar postgres)
+
 4.crear un usuario con su respectiva contraseña en postgres
+
 5.crear una base de datos 
+
 6.cambiar la configuaracion con sus respectivos valores de su base de datos
-7.corra el codigo
+
+7.corra el codigo  de workshop.ipynb
